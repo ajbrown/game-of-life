@@ -61,7 +61,6 @@ There are a few arguments that can be specified:
 To cycle through 100 generations of a randomly seeded 50x50 grid, use the following command:
 
 ```
-java -jar build/libs/conway-exercise-0.0.0-SNAPSHOT-all.jar --randomize 50x50 --generations 100
+java -jar build/libs/game-of-life-0.0.0-SNAPSHOT-all.jar --randomize 50x50 --generations 100
 ```
 
-java -jar build/libs/conway-exercise-0.0.0-SNAPSHOT-all.jar --randomize 10x10 --generations 10
